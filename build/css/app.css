@@ -399,3 +399,13 @@ h3 {
 .bg-primario {
   background-color: #e8505b;
 }
+
+.header {
+  padding: 5rem 0;
+}
+.header::before {
+  content: "";
+}
+.header-inicio {
+  background-image: url(../img/header_inicio.jpg);
+}

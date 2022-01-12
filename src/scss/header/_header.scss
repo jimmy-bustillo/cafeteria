@@ -1,0 +1,15 @@
+.header {
+  padding: 5rem 0;
+
+  &::before {
+    content: "";
+  }
+
+  .contenido-header {
+  }
+}
+
+// Header de cada pagina
+.header-inicio {
+  background-image: url(../img/header_inicio.jpg);
+}
